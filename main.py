@@ -23,7 +23,7 @@ if not logger.hasHandlers():
 
 apiurl, status = {
     "session": "http://api.nodepay.ai/api/auth/session", 
-    "ping": "http://52.77.10.116/api/network/ping"
+    "ping": "https://nw.nodepay.org/api/network/ping"
 }, {
     "connected": 1, 
     "disconnected": 2, 
