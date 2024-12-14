@@ -69,4 +69,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
 My reff code if you want to use :) : 
-https://app.nodepay.ai/register?ref=LrCeinXqThMs9tb
+
+https://app.nodepay.ai/register?ref=5xLEeRhyOVkbLgZ
